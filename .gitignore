@@ -1,0 +1,10 @@
+.idea
+node_modules
+package-lock.json
+dev.ts
+dev.js
+tsconfig3.json
+src/config/migration-config-local.ts
+dist
+dist/
+.env

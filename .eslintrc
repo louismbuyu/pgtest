@@ -1,0 +1,11 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
+  "rules": {
+    "@typescript-eslint/no-var-requires": 0,
+    "semi": 2,
+    "quotes": [2, "single"],
+    "indent": [2, "tab"]
+  }
+}
